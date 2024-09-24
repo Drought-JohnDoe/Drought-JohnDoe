@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Drought-JohnDoe
-- 👀 I’m interested in Complex Networks
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me ...
-- 😄 Pronouns: he/them
-- ⚡ Fun fact: 
+<!-- Data Access  --> 
+PRECIPITATION , TEMPERTAURE 
+https://catalogue.ceda.ac.uk/uuid/3f8944800cc48e1cbc29a5ee12d8542d/
 
-<!---
-Drought-JohnDoe/Drought-JohnDoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://catalogue.ceda.ac.uk/uuid/edf8febfdaad48abb2cbaf7d7e846a86/
+
+self calibrating Palmer drought severity index (sc-PDSI)
+https://crudata.uea.ac.uk/cru/data/drought/#global
+
+<!-- Sea Surface Tempertaure  -->
+https://psl.noaa.gov/data/gridded/data.noaa.ersst.v5.html
